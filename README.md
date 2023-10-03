@@ -105,7 +105,7 @@
     <section id="about">
       <h2>Tentang Kami</h2>
       <p>
-        Kami adalah sebuah kedai kopi yang dengan sepenuh hati menyajikan kopi
+        Kami adalah sebuah kedai kopi yang dengan sepenuh hati menyajikan kopi 
         istimewa dengan cita rasa yang khas kepada para pecinta kopi. Kami
         menggunakan bahan dasar biji kopi terbaik dari seluruh pelosok negeri
         dan bekerja sama dengan petani kopi dan pengolahnya untuk menciptakan
